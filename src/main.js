@@ -8,7 +8,10 @@ Vue.use(VueRouter)
 import './assets/css/styles.css'
 
 const router = new VueRouter({
+  mode: 'history',
+  base: 'amarelator',
   routes // short for `routes: routes`
+
 })
 
 Vue.config.productionTip = false
