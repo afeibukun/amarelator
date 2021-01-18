@@ -1,24 +1,35 @@
-# amarelator
+# Amarelator
 
-## Project setup
-```
-npm install
-```
+A simple Web Love Calculator project, built for the fun of it, made to look slightly serious than it really is
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features!
 
-### Compiles and minifies for production
+- It includes 3 different frameworks
+
 ```
-npm run build
+Simplex
 ```
 
-### Lints and fixes files
 ```
-npm run lint
+Gravis
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+  Flames
+```
+
+The 3 frameworks operate on 3 different algorithms
+
+### Simplex
+
+it uses a simple love calculator algorithm that guarantees a high score regardless of the matching of the names
+
+### Gravis
+
+There is no guarantee of a great score here, the algorithm runs it course and could be slightly very harsh with its response, no hard feelings though.
+
+### Flames
+
+This works using the popular flames game
+
+There should be some advanced version of this project coming soon, watch this space, at the moment find the project in action here [Amarelator](http://sandbox.desdistrict.com/amarelator/)
